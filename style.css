@@ -44,3 +44,25 @@ body{
     border-radius: 1rem;
     border: none;
 }
+
+#new-btn{
+    padding:1rem;
+    font-size:1.25rem;
+    background-color:#8B6220;
+    color:#45050C;
+    border-radius: 1rem;
+    border: none;
+}
+
+#msg{
+    color:#720E07;
+    font-size: 5vmin;
+}
+
+.msg-container{
+    height: 18vmin;
+}
+
+.hide{
+    display:none;
+}
