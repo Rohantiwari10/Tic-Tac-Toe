@@ -5,7 +5,13 @@
 
 body{
     background-Color:#eecf6d;
+    height:100vh;
     text-align:center;
+}
+
+h1{
+    color:rgba(243, 1, 1, 0.952);
+    margin-top: 5px;
 }
 
 .container{
@@ -56,11 +62,11 @@ body{
 
 #msg{
     color:#720E07;
-    font-size: 5vmin;
+    font-size: 7vmin;
 }
 
 .msg-container{
-    height: 100vmin;
+    height: 100vh;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -71,3 +77,4 @@ body{
 .hide{
     display:none;
 }
+
